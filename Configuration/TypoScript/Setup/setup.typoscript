@@ -1,0 +1,11 @@
+page.includeJSFooterlibs {
+        lightboxcnt          	     = EXT:t3up_image/Resources/Public/JavaScript/imagelightbox.control.js
+        lightboxcnt.if.isTrue        = {$page.files.lightbox}
+        lightbox          	         = EXT:t3up_image/Resources/Public/JavaScript/imagelightbox.min.js
+        lightbox.if.isTrue           = {$page.files.lightbox}
+}
+
+page.includeCSS{
+   	t3up_image                                = {$page.scss.scssT3upImage}
+    t3up_image.linenumber                     = true    
+}

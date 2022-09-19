@@ -1,0 +1,15 @@
+##############
+### PAGE ###
+##############
+
+
+page.scss {
+      # cat =t3up: scss/t3upextensions/202;  type =string; label =T3UP - image - Scss
+      scssT3upImage = EXT:t3up_image/Resources/Public/Sass/_t3upImage.scss
+}
+
+page.files {
+      # customsubcategory=appearance=LLL:EXT:t3up_image/Resources/Private/Language/locallang_constants.xlf:appearance
+      # cat =t3up: files/javascript/09;  type =options[,active]; label =LLL:EXT:t3up_image/Resources/Private/Language/locallang_constants.xlf:lightbox
+      lightbox                  =  active
+}

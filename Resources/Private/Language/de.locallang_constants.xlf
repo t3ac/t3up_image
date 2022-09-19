@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-09-22T11:44:12Z" product-name="t3up_image">
+		<header/>
+		<body>
+		    /* -- Files ------------------------- */ 
+		    
+			<trans-unit id="lightboxs">
+			     <source>Lightbox Files</source>
+			     <target state="translated">JQuery Lightbox Datei</target>
+		    </trans-unit> 
+			<trans-unit id="lightbox">
+			     <source>Including the JQuery Lightbox JavaScript(recommended)</source>
+			     <target state="translated">JQuery Lightbox JS-Datei einbinden (empfohlen)</target>
+		    </trans-unit> 
+
+			/* -- SCSS ------------------------- */	
+
+		    <trans-unit id="scsst3upimage">
+			     <source>Including the scss for the image handling (recommended)</source>
+			     <target state="translated">Scss-Datei für Bilder einbinden (empfohlen)</target>
+		    </trans-unit> 	
+		</body>
+	</file>
+</xliff>
