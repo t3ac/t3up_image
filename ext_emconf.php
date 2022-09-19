@@ -7,9 +7,9 @@
 /** @var string $_EXTKEY */
 $EM_CONF[$_EXTKEY] = [
     'title'            => 'T3UP - Image',
-    'description'      => 'Image Extension for the t3up-package',
-    'version'          => '0.5.0',
-    'state'            => 'beta',
+    'description'      => 'Image extension for the t3up-package',
+    'version'          => '1.0.0',
+    'state'            => 'stable',
     'category'         => 'templates',
     'author'           => 'Michael Lang',
     'author_email'     => 'michael.lang@h-da.de',
