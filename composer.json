@@ -1,7 +1,7 @@
 {
   "name": "t3ac/t3up-image",
   "type": "typo3-cms-extension",
-  "description": "T3UP - image supports the t3up-package",
+  "description": "T3UP - Image supports the t3up-package",
   "authors": [
     {
       "name": "Michael Lang",
@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-        "T3ac\\T3upImage\\": "Classes/"
+        "T3ac\\T3upImage\\": "Classes"
     }
   },
   "extra": {
