@@ -5,7 +5,7 @@
 
 page.scss {
       # cat =t3up: scss/t3upextensions/202;  type =string; label =T3UP - image - Scss
-      scssT3upImage            = EXT:t3up_image/Resources/Public/Sass/_t3upImage.scss
+      scssT3upImage = EXT:t3up_image/Resources/Public/Sass/_t3upImage.scss
 }
 
 page.files {

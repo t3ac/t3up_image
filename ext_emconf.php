@@ -8,7 +8,7 @@
 $EM_CONF[$_EXTKEY] = [
     'title'            => 'T3UP - Image',
     'description'      => 'Image extension for the t3up-package',
-    'version'          => '1.0.0',
+    'version'          => '10.0.01',
     'state'            => 'stable',
     'category'         => 'templates',
     'author'           => 'Michael Lang',
@@ -19,7 +19,7 @@ $EM_CONF[$_EXTKEY] = [
     'createDirs'       => '',
     'constraints'      => [
         'depends'   => [
-            'typo3' => '10.4-11.5',
+            'typo3' => '10.4.0-11.5.99',
         ],
         'conflicts' => [],
         'suggests'  => [],

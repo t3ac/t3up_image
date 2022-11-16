@@ -4,7 +4,6 @@ TCEFORM {
             disableNoMatchingValueElement = 1
             types {
                 textmedia {
-                    removeItems = 1,2,3
                     addItems {
                         2005  = LLL:EXT:t3up_image/Resources/Private/Language/locallang_backend.xlf:image.05
                         2010  = LLL:EXT:t3up_image/Resources/Private/Language/locallang_backend.xlf:image.10
